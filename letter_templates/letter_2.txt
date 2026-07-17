@@ -1,7 +1,9 @@
 Hey [NAME],
 
-Happy birthday! Have a wonderful time today and eat lots of cake!
+Feliz cumpleaños! 
 
-Lots of love,
+Dejé este código ejecutándose automáticamente así que está programado para enviarse cada día de su cumpleaños.
 
-Your friend
+Espero que te lo pases de lo mejor. Te quiero!
+
+Ronaldo

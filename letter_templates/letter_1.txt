@@ -1,7 +1,9 @@
 Dear [NAME],
 
-Happy birthday!
+Feliz cumpleaños! 
 
-All the best for the year!
+Dejé este código ejecutándose automáticamente así que está programado para enviarse cada día de su cumpleaños.
 
-Your friend
+Felicidades!
+
+Ronaldo
